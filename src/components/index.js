@@ -1,0 +1,1 @@
+export {default as Heade}from "./Heade.jsx"
